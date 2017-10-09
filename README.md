@@ -5,7 +5,7 @@
 - three.js 88dev
   - OrbitControls
   - Detector
-  - Lightning
+  - Lighting
   - Shadows
 - typescript 2.x
 - webpack 3.x
